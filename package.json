@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-barrage",
+  "version": "1.0.0",
+  "description": "Custom ESLint configuration based on @antfu/eslint-config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttomasic-barrage/eslint-config-barrage.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttomasic-barrage/eslint-config-barrage/issues"
+  },
+  "homepage": "https://github.com/ttomasic-barrage/eslint-config-barrage#readme",
+  "dependencies": {
+    "@antfu/eslint-config": "^0.38.5"
+  }
+}
